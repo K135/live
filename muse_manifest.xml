@@ -1,0 +1,55 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1530638126968">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="stream-selection.css" crc="4230524565" ref="stream-selection"/>
+    <file name="index.css" crc="4232237633" ref="index"/>
+    <file name="nomq_index.css" crc="4153821088" ref="index"/>
+    <file name="user-live.css" crc="4137902689" ref="user-live"/>
+    <file name="live.css" crc="41586975" ref="live"/>
+    <file name="login.css" crc="67439223" ref="login"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:login:stream-selection:live:user-live"/>
+    <file name="museutils.js" crc="3803043152" ref="index:login:stream-selection:live:user-live"/>
+    <file name="whatinput.js" crc="86476730" ref="index:login:stream-selection:live:user-live"/>
+    <file name="museconfig.js" crc="380897831" ref="index:login:stream-selection:live:user-live"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:login:stream-selection"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:login:stream-selection:live:user-live"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:login:stream-selection:live:user-live"/>
+  </folder>
+  <folder name="images">
+    <file name="live.gif" crc="731979" seo="true" ref="index:live:user-live">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="user-live" alt=""/>
+    </file>
+    <file name="u196-6.png" crc="312589255" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:login"/>
+    <file name="live-online.gif" crc="4173961902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tower.gif" crc="215243266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="appries-wallpaper.png" crc="219276486" ref="index:login:stream-selection">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stream-selection" alt=""/>
+      <caption webpage="login" alt=""/>
+    </file>
+    <file name="u127-5.png" crc="3902418661" ref="index"/>
+    <file name="appries-wallpaper1028x578.png" crc="4049713363" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u815-6.png" crc="4205637940" ref="live"/>
+    <file name="u1039-6.png" crc="4101059882" ref="user-live"/>
+  </folder>
+  <file name="index.html" crc="75506815" seo="true" mt="1530637961952" redirect="true"/>
+  <file name="login.html" crc="3959313157" seo="true" mt="1530637866492" redirect="true"/>
+  <file name="stream-selection.html" crc="3991762563" seo="true" mt="1530637108628" redirect="true"/>
+  <file name="live.html" crc="3974586148" seo="true" mt="1530637915393" redirect="true"/>
+  <file name="user-live.html" crc="212387350" seo="true" mt="1530637050191" redirect="true"/>
+</manifest>

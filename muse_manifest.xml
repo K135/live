@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1530638126968">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1530640331026">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="stream-selection.css" crc="4230524565" ref="stream-selection"/>
     <file name="index.css" crc="4232237633" ref="index"/>
     <file name="nomq_index.css" crc="4153821088" ref="index"/>
-    <file name="user-live.css" crc="4137902689" ref="user-live"/>
-    <file name="live.css" crc="41586975" ref="live"/>
+    <file name="user-live.css" crc="56864892" ref="user-live"/>
+    <file name="live.css" crc="393577192" ref="live"/>
     <file name="login.css" crc="67439223" ref="login"/>
   </folder>
   <folder name="scripts">
@@ -44,12 +44,12 @@
     <file name="appries-wallpaper1028x578.png" crc="4049713363" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u815-6.png" crc="4205637940" ref="live"/>
-    <file name="u1039-6.png" crc="4101059882" ref="user-live"/>
+    <file name="u1039-6.png" crc="3815431549" ref="user-live"/>
+    <file name="u1295-6.png" crc="3815431549" ref="live"/>
   </folder>
   <file name="index.html" crc="75506815" seo="true" mt="1530637961952" redirect="true"/>
   <file name="login.html" crc="3959313157" seo="true" mt="1530637866492" redirect="true"/>
   <file name="stream-selection.html" crc="3991762563" seo="true" mt="1530637108628" redirect="true"/>
-  <file name="live.html" crc="3974586148" seo="true" mt="1530637915393" redirect="true"/>
-  <file name="user-live.html" crc="212387350" seo="true" mt="1530637050191" redirect="true"/>
+  <file name="live.html" crc="3805350005" seo="true" mt="1530640300115" redirect="true"/>
+  <file name="user-live.html" crc="37236714" seo="true" mt="1530640235516" redirect="true"/>
 </manifest>

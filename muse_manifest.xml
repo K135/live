@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1530640331026">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1530640487416">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="stream-selection.css" crc="4230524565" ref="stream-selection"/>
@@ -44,12 +44,12 @@
     <file name="appries-wallpaper1028x578.png" crc="4049713363" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1039-6.png" crc="3815431549" ref="user-live"/>
+    <file name="u1039-6.png" crc="3902849737" ref="user-live"/>
     <file name="u1295-6.png" crc="3815431549" ref="live"/>
   </folder>
   <file name="index.html" crc="75506815" seo="true" mt="1530637961952" redirect="true"/>
   <file name="login.html" crc="3959313157" seo="true" mt="1530637866492" redirect="true"/>
   <file name="stream-selection.html" crc="3991762563" seo="true" mt="1530637108628" redirect="true"/>
   <file name="live.html" crc="3805350005" seo="true" mt="1530640300115" redirect="true"/>
-  <file name="user-live.html" crc="37236714" seo="true" mt="1530640235516" redirect="true"/>
+  <file name="user-live.html" crc="518141583" seo="true" mt="1530640468393" redirect="true"/>
 </manifest>
